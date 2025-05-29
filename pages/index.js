@@ -1,0 +1,1 @@
+export default function Home() { return <div>TWY Empire Phase 2</div>; }
